@@ -1,0 +1,576 @@
+[
+  {
+    "id": "5d2a082e-a7e8-472e-bd41-770e6ce6bca0",
+    "name": "chicken",
+    "parentCollection": "MOBS",
+    "over": 1,
+    "defaultSound": null
+  },
+  {
+    "id": "d513c597-0eb6-4e01-b403-145e2e2557db",
+    "name": "guardian",
+    "parentCollection": "MOBS",
+    "over": 39,
+    "defaultSound": null
+  },
+  {
+    "id": "468e946b-d791-4aa9-89cf-85da5c8f6512",
+    "name": "enderman",
+    "parentCollection": "MOBS",
+    "over": 30,
+    "defaultSound": null
+  },
+  {
+    "id": "54cec907-6f49-45bb-b74a-fcfc3c2d99cc",
+    "name": "blaze",
+    "parentCollection": "MOBS",
+    "over": 46,
+    "defaultSound": null
+  },
+  {
+    "id": "27ef9ecd-f9db-4638-b745-6e1f413d2b7d",
+    "name": "phantom",
+    "parentCollection": "MOBS",
+    "over": 31,
+    "defaultSound": null
+  },
+  {
+    "id": "7ad1e0b5-0f72-4138-8f6b-1e056ec4ce43",
+    "name": "donkey",
+    "parentCollection": "MOBS",
+    "over": 10,
+    "defaultSound": null
+  },
+  {
+    "id": "694c6aa8-fe6b-4548-b901-ece580949cf9",
+    "name": "cooked food",
+    "parentCollection": "ITEMS_SMELTED",
+    "over": 66,
+    "defaultSound": null
+  },
+  {
+    "id": "cecb9b72-ba9b-42f6-89ce-3c217e81e8ba",
+    "name": "endermite",
+    "parentCollection": "MOBS",
+    "over": 52,
+    "defaultSound": null
+  },
+  {
+    "id": "95d73e11-599e-47d0-9edd-2947edcef32a",
+    "name": "cow",
+    "parentCollection": "MOBS",
+    "over": 2,
+    "defaultSound": null
+  },
+  {
+    "id": "c95bda96-4a79-4ba1-b6c1-59dc03c7e67c",
+    "name": "elder guardian",
+    "parentCollection": "MOBS",
+    "over": 40,
+    "defaultSound": null
+  },
+  {
+    "id": "3a2d6a5c-8576-46e3-9472-96c8dc0dbd5a",
+    "name": "skeleton",
+    "parentCollection": "MOBS",
+    "over": 27,
+    "defaultSound": null
+  },
+  {
+    "id": "22aa5286-6feb-4ad6-9ca8-b429e45fe464",
+    "name": "rabbit",
+    "parentCollection": "MOBS",
+    "over": 6,
+    "defaultSound": null
+  },
+  {
+    "id": "35e8ed69-eab0-43c8-a8fb-4cb16ad28fc2",
+    "name": "fox",
+    "parentCollection": "MOBS",
+    "over": 16,
+    "defaultSound": null
+  },
+  {
+    "id": "bf46df89-fc7e-40de-8e9d-a42aacd5a3d3",
+    "name": "wither skeleton",
+    "parentCollection": "MOBS",
+    "over": 49,
+    "defaultSound": null
+  },
+  {
+    "id": "8d4125a4-2bea-49ac-8927-05e7bb49209b",
+    "name": "equipment",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 61,
+    "defaultSound": null
+  },
+  {
+    "id": "ea70bcec-19c4-428a-8869-f56b2f5a3f10",
+    "name": "evoker",
+    "parentCollection": "MOBS",
+    "over": 43,
+    "defaultSound": null
+  },
+  {
+    "id": "b1e89a3e-01f5-4c5d-943a-82696e690844",
+    "name": "squid",
+    "parentCollection": "MOBS",
+    "over": 23,
+    "defaultSound": null
+  },
+  {
+    "id": "1bebf702-1caa-4371-9d73-f55cd5a74369",
+    "name": "creeper",
+    "parentCollection": "MOBS",
+    "over": 26,
+    "defaultSound": null
+  },
+  {
+    "id": "c71b314e-ebd3-4c12-9d61-b3b48f3a4a5c",
+    "name": "plants",
+    "parentCollection": "BLOCKS",
+    "over": 57,
+    "defaultSound": null
+  },
+  {
+    "id": "416fa3b3-0fc8-447b-bae0-556426d408e7",
+    "name": "golem",
+    "parentCollection": "MOBS",
+    "over": 25,
+    "defaultSound": null
+  },
+  {
+    "id": "fde61190-0c3e-48b1-a1b3-239fdb1bd33c",
+    "name": "mule",
+    "parentCollection": "MOBS",
+    "over": 9,
+    "defaultSound": null
+  },
+  {
+    "id": "4bb80f46-17a8-4c50-b7c5-83090615c2b2",
+    "name": "silverfish",
+    "parentCollection": "MOBS",
+    "over": 45,
+    "defaultSound": null
+  },
+  {
+    "id": "c9d1a76c-fe31-4e6e-a1e1-72b2904ffc3f",
+    "name": "slime",
+    "parentCollection": "MOBS",
+    "over": 33,
+    "defaultSound": null
+  },
+  {
+    "id": "246c1c31-b7b9-4b6d-b7d8-7e66c6d7114e",
+    "name": "bat",
+    "parentCollection": "MOBS",
+    "over": 18,
+    "defaultSound": null
+  },
+  {
+    "id": "b0ca764a-42d6-40c6-b7e9-fa30dfe7efb9",
+    "name": "manufactured blocks",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 56,
+    "defaultSound": null
+  },
+  {
+    "id": "02c07714-d5d9-4cb1-a3e8-dbae16c69551",
+    "name": "husk",
+    "parentCollection": "MOBS",
+    "over": 42,
+    "defaultSound": null
+  },
+  {
+    "id": "19a41b38-6c7b-4497-a48d-63bb7ebd73cd",
+    "name": "llama",
+    "parentCollection": "MOBS",
+    "over": 17,
+    "defaultSound": null
+  },
+  {
+    "id": "992c7e9b-c5c5-47bb-9837-9ff91e4e06e9",
+    "name": "cat",
+    "parentCollection": "MOBS",
+    "over": 19,
+    "defaultSound": null
+  },
+  {
+    "id": "6563749a-441e-469f-b243-3bc810c10d53",
+    "name": "dolphin",
+    "parentCollection": "MOBS",
+    "over": 22,
+    "defaultSound": null
+  },
+  {
+    "id": "845e9e3b-59dc-4e40-a221-d4a4205055c7",
+    "name": "horse",
+    "parentCollection": "MOBS",
+    "over": 8,
+    "defaultSound": null
+  },
+  {
+    "id": "8023f025-e502-45c1-b84c-8ed2cda671c8",
+    "name": "drowned",
+    "parentCollection": "MOBS",
+    "over": 38,
+    "defaultSound": null
+  },
+  {
+    "id": "b11ff0e2-2a17-4d8a-8503-0586aaa37e88",
+    "name": "spider",
+    "parentCollection": "MOBS",
+    "over": 28,
+    "defaultSound": null
+  },
+  {
+    "id": "916830b1-c054-4dd0-8da4-eca2d9234d7b",
+    "name": "manufactured items",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 59,
+    "defaultSound": null
+  },
+  {
+    "id": "16cab3d2-988b-4a63-9968-9e991c11654d",
+    "name": "mechanisms",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 60,
+    "defaultSound": null
+  },
+  {
+    "id": "ece0b1cb-9697-460f-aeff-b351a899bb2f",
+    "name": "wandering trader",
+    "parentCollection": "MOBS",
+    "over": 20,
+    "defaultSound": null
+  },
+  {
+    "id": "ea2c85c4-6048-477a-9831-5699387c4c95",
+    "name": "wolf",
+    "parentCollection": "MOBS",
+    "over": 15,
+    "defaultSound": null
+  },
+  {
+    "id": "36778d63-5559-4d4c-a00e-a9e1ee9ac594",
+    "name": "natural blocks",
+    "parentCollection": "BLOCKS",
+    "over": 55,
+    "defaultSound": null
+  },
+  {
+    "id": "4e68f10d-7702-49c0-a747-ea270fb18dd4",
+    "name": "ghast",
+    "parentCollection": "MOBS",
+    "over": 47,
+    "defaultSound": null
+  },
+  {
+    "id": "8d21cda0-2650-4d5f-9c56-f9b9fd8dc2d8",
+    "name": "pillager",
+    "parentCollection": "MOBS",
+    "over": 35,
+    "defaultSound": null
+  },
+  {
+    "id": "a422b194-336f-473f-b826-e914a33824f4",
+    "name": "shulker",
+    "parentCollection": "MOBS",
+    "over": 51,
+    "defaultSound": null
+  },
+  {
+    "id": "0284cf2b-9cf4-4c8b-b2d1-c91108e9abda",
+    "name": "stray",
+    "parentCollection": "MOBS",
+    "over": 41,
+    "defaultSound": null
+  },
+  {
+    "id": "5d90b742-8502-4609-b900-6caae44b3e15",
+    "name": "zombie",
+    "parentCollection": "MOBS",
+    "over": 29,
+    "defaultSound": null
+  },
+  {
+    "id": "8aa7bf4f-826a-4ece-a375-23232858189e",
+    "name": "turtle",
+    "parentCollection": "MOBS",
+    "over": 24,
+    "defaultSound": null
+  },
+  {
+    "id": "fb6c234f-3ab8-43fb-8710-8fbb86c310d2",
+    "name": "smelted materials",
+    "parentCollection": "ITEMS_SMELTED",
+    "over": 65,
+    "defaultSound": null
+  },
+  {
+    "id": "8ebbd6b7-603a-40cb-8640-09f94e005285",
+    "name": "ender dragon",
+    "parentCollection": "MOBS",
+    "over": 53,
+    "defaultSound": null
+  },
+  {
+    "id": "13d203e1-403a-41f5-87f0-544bf5f52c44",
+    "name": "food",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 62,
+    "defaultSound": null
+  },
+  {
+    "id": "a75e0b71-acba-41be-871f-4c40a4b837ba",
+    "name": "fish",
+    "parentCollection": "MOBS",
+    "over": 5,
+    "defaultSound": null
+  },
+  {
+    "id": "dace9f26-fca2-462b-adf5-145e795f9676",
+    "name": "parrot",
+    "parentCollection": "MOBS",
+    "over": 13,
+    "defaultSound": null
+  },
+  {
+    "id": "97f2e518-72b7-4c37-af38-3d4f618d39f9",
+    "name": "panda",
+    "parentCollection": "MOBS",
+    "over": 12,
+    "defaultSound": null
+  },
+  {
+    "id": "62e69dc6-5398-4c8b-ab2c-c525c68221e0",
+    "name": "witch",
+    "parentCollection": "MOBS",
+    "over": 32,
+    "defaultSound": null
+  },
+  {
+    "id": "e1d46d9b-526c-487e-8651-172172f6145d",
+    "name": "ocelot",
+    "parentCollection": "MOBS",
+    "over": 11,
+    "defaultSound": null
+  },
+  {
+    "id": "82c0a9b3-f078-4b55-ac4e-c5eb4624f1e8",
+    "name": "villager",
+    "parentCollection": "MOBS",
+    "over": 21,
+    "defaultSound": null
+  },
+  {
+    "id": "5a6092b9-cb39-42f2-8c4b-e56b248f8a1b",
+    "name": "sheep",
+    "parentCollection": "MOBS",
+    "over": 3,
+    "defaultSound": null
+  },
+  {
+    "id": "50125e9d-6e18-48b8-802f-8663bf78b976",
+    "name": "magma cube",
+    "parentCollection": "MOBS",
+    "over": 48,
+    "defaultSound": null
+  },
+  {
+    "id": "89251760-dbca-497f-bc37-356174ea95e4",
+    "name": "ravager",
+    "parentCollection": "MOBS",
+    "over": 36,
+    "defaultSound": null
+  },
+  {
+    "id": "07203e3c-3beb-4656-8b71-08fb2de0ebde",
+    "name": "pig",
+    "parentCollection": "MOBS",
+    "over": 4,
+    "defaultSound": null
+  },
+  {
+    "id": "98ee3804-3b16-4ad0-a7b6-a4a5e681658a",
+    "name": "bee",
+    "parentCollection": "MOBS",
+    "over": 7,
+    "defaultSound": null
+  },
+  {
+    "id": "172d601c-ed50-4b73-948e-e4fbd199fdbb",
+    "name": "mob drops",
+    "parentCollection": "BLOCKS",
+    "over": 58,
+    "defaultSound": null
+  },
+  {
+    "id": "f0944566-34ba-4f14-99ea-442934d345e5",
+    "name": "vindicator",
+    "parentCollection": "MOBS",
+    "over": 37,
+    "defaultSound": null
+  },
+  {
+    "id": "affc3174-ea3d-4f8a-bfaa-8c35e9497c9c",
+    "name": "wither",
+    "parentCollection": "MOBS",
+    "over": 54,
+    "defaultSound": null
+  },
+  {
+    "id": "998226c7-68d9-492e-b2da-5263905d45e2",
+    "name": "vex",
+    "parentCollection": "MOBS",
+    "over": 44,
+    "defaultSound": null
+  },
+  {
+    "id": "6b2a62f2-4cac-4782-a607-220f8c0083c8",
+    "name": "zombie villager",
+    "parentCollection": "MOBS",
+    "over": 34,
+    "defaultSound": null
+  },
+  {
+    "id": "6616c973-ad55-4660-acc1-7176d611ea48",
+    "name": "polar bear",
+    "parentCollection": "MOBS",
+    "over": 14,
+    "defaultSound": null
+  },
+  {
+    "id": "9e80c5bf-0ae2-4342-b2ba-488127faccba",
+    "name": "beds",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 158,
+    "defaultSound": null
+  },
+  {
+    "id": "200b5fd0-74fd-41b9-9b5e-572079b1d400",
+    "name": "stone blocks",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 160,
+    "defaultSound": null
+  },
+  {
+    "id": "1631552b-2eb8-4d26-a225-ddb5bf4a7c32",
+    "name": "crafted glass",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 156,
+    "defaultSound": null
+  },
+  {
+    "id": "ac901d21-521b-4972-9d64-eea732a0abd5",
+    "name": "carpets",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 159,
+    "defaultSound": null
+  },
+  {
+    "id": "5c3e0a9e-0ef6-4bca-b9e7-ab212c0137d1",
+    "name": "stone slabs",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 163,
+    "defaultSound": null
+  },
+  {
+    "id": "8b005049-d6df-41a0-8cd4-561111521ea5",
+    "name": "wooden tools",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 165,
+    "defaultSound": null
+  },
+  {
+    "id": "ccace8e2-95ec-41c2-875d-e12adc8aea54",
+    "name": "diamond tools",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 169,
+    "defaultSound": null
+  },
+  {
+    "id": "615be310-84cf-46e3-af54-3f5a5ed02ee5",
+    "name": "golden tools",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 168,
+    "defaultSound": null
+  },
+  {
+    "id": "2ad066df-71ff-42ac-91c4-12c95d8e52d1",
+    "name": "concrete",
+    "parentCollection": "BLOCKS",
+    "over": 155,
+    "defaultSound": "journal.select.stone"
+  },
+  {
+    "id": "ca73193a-bea5-4e04-ba23-b7c10bbe66e1",
+    "name": "natural items",
+    "parentCollection": "BLOCKS",
+    "over": 101,
+    "defaultSound": null
+  },
+  {
+    "id": "470a86b1-62d4-4814-92eb-d31dd2fccfab",
+    "name": "coal",
+    "parentCollection": "ITEMS_SMELTED",
+    "over": 202,
+    "defaultSound": null
+  },
+  {
+    "id": "fd1723de-3a4e-4640-9622-014421c4ef4c",
+    "name": "mob of me",
+    "parentCollection": "MOBS",
+    "over": 300,
+    "defaultSound": null
+  },
+  {
+    "id": "9d1fcdc7-b126-4795-97de-3db9d031a28d",
+    "name": "stone stairs",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 161,
+    "defaultSound": null
+  },
+  {
+    "id": "3a4a1ed2-306a-4efd-b346-64bfc5797c7c",
+    "name": "dyes",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 164,
+    "defaultSound": null
+  },
+  {
+    "id": "1c0dfcc5-136f-4d8f-86a8-993fbeb55394",
+    "name": "special buckets",
+    "parentCollection": "BLOCKS",
+    "over": 149,
+    "defaultSound": null
+  },
+  {
+    "id": "321375c1-91d7-4159-b9d3-a75141e00eae",
+    "name": "stone walls",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 162,
+    "defaultSound": null
+  },
+  {
+    "id": "cb0b71c7-a7cf-44a0-84dd-c6a1195ceeb8",
+    "name": "iron tools",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 167,
+    "defaultSound": null
+  },
+  {
+    "id": "3d500654-467f-47e9-9213-71455fcf7215",
+    "name": "stone tools",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 166,
+    "defaultSound": null
+  },
+  {
+    "id": "c7434e2d-073b-4e3e-9a28-14f1765e820c",
+    "name": "wool",
+    "parentCollection": "ITEMS_CRAFTED",
+    "over": 157,
+    "defaultSound": null
+  }
+]
