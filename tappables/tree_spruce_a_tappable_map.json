@@ -1,0 +1,34 @@
+{
+  "icon": "genoa:tree_spruce_a_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "c0284797-233c-64c5-13b5-b821922ae84a",
+        "9efdd49a-5bda-1191-34eb-747cf02406c0"
+      ],
+      "chance": 167
+    },
+    {
+      "items": [
+        "c0284797-233c-64c5-13b5-b821922ae84a"
+      ],
+      "chance": 71
+    },
+    {
+      "items": [
+        "9efdd49a-5bda-1191-34eb-747cf02406c0"
+      ],
+      "chance": 102
+    }
+  ],
+  "itemCounts": {
+    "c0284797-233c-64c5-13b5-b821922ae84a": {
+      "min": 1,
+      "max": 2
+    },
+    "9efdd49a-5bda-1191-34eb-747cf02406c0": {
+      "min": 2,
+      "max": 8
+    }
+  }
+}

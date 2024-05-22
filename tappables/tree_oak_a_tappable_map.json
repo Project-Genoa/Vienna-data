@@ -1,0 +1,45 @@
+{
+  "icon": "genoa:tree_oak_a_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068",
+        "81afb63a-be28-0e12-47d0-e2eba32e1365"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068",
+        "8e15a09c-0eb3-a84d-781e-b9b14ab71f9e"
+      ],
+      "chance": 68
+    },
+    {
+      "items": [
+        "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068"
+      ],
+      "chance": 116
+    },
+    {
+      "items": [
+        "8e15a09c-0eb3-a84d-781e-b9b14ab71f9e"
+      ],
+      "chance": 13
+    }
+  ],
+  "itemCounts": {
+    "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068": {
+      "min": 2,
+      "max": 8
+    },
+    "8e15a09c-0eb3-a84d-781e-b9b14ab71f9e": {
+      "min": 1,
+      "max": 2
+    },
+    "81afb63a-be28-0e12-47d0-e2eba32e1365": {
+      "min": 1,
+      "max": 1
+    }
+  }
+}

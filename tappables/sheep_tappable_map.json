@@ -1,0 +1,77 @@
+{
+  "icon": "genoa:sheep_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "f6629c5b-11bf-e128-a465-b875d4ff7d1b"
+      ],
+      "chance": 39
+    },
+    {
+      "items": [
+        "805028aa-c421-2db9-c07b-0ac3592bed4e"
+      ],
+      "chance": 567
+    },
+    {
+      "items": [
+        "9dde0e4e-8104-f807-b714-2a5fa7ead5b9"
+      ],
+      "chance": 18
+    },
+    {
+      "items": [
+        "2e8e0fd5-d3b8-70be-b36a-31bd0caeafa8"
+      ],
+      "chance": 56
+    },
+    {
+      "items": [
+        "caf00a9c-b1f9-c37a-0f75-c8c7659becb0"
+      ],
+      "chance": 28
+    },
+    {
+      "items": [
+        "cadf471c-8e90-b5a0-8376-9e0882f59e53"
+      ],
+      "chance": 7
+    },
+    {
+      "items": [
+        "86d00291-74cf-d564-f4a6-a9f1d6b19713"
+      ],
+      "chance": 8
+    }
+  ],
+  "itemCounts": {
+    "805028aa-c421-2db9-c07b-0ac3592bed4e": {
+      "min": 1,
+      "max": 1
+    },
+    "f6629c5b-11bf-e128-a465-b875d4ff7d1b": {
+      "min": 1,
+      "max": 1
+    },
+    "2e8e0fd5-d3b8-70be-b36a-31bd0caeafa8": {
+      "min": 1,
+      "max": 1
+    },
+    "caf00a9c-b1f9-c37a-0f75-c8c7659becb0": {
+      "min": 1,
+      "max": 1
+    },
+    "cadf471c-8e90-b5a0-8376-9e0882f59e53": {
+      "min": 1,
+      "max": 1
+    },
+    "9dde0e4e-8104-f807-b714-2a5fa7ead5b9": {
+      "min": 1,
+      "max": 1
+    },
+    "86d00291-74cf-d564-f4a6-a9f1d6b19713": {
+      "min": 1,
+      "max": 1
+    }
+  }
+}

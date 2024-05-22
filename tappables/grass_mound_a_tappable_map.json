@@ -1,0 +1,5323 @@
+{
+  "icon": "genoa:grass_mound_a_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "b168485f-dd72-4c6a-af04-46858c42d8a1",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f4b8464c-6664-bbcd-0151-effce8347419",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f4b8464c-6664-bbcd-0151-effce8347419",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 6
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 7
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 5
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 5
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 13
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 7
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 5
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 39
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 12
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 7
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 4
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 3
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "f4b8464c-6664-bbcd-0151-effce8347419",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "5e396bc3-febe-701e-c9da-80fa28036237",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "e5853d38-a541-353e-bfd9-75c64e67af09",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "ea2d68a2-fc49-0674-7422-2a546526476a"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "e5a9653f-62bf-1782-cc4c-4deafd4ab098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "20519eb8-6256-4fdd-a598-a2a20de10e1c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f4b8464c-6664-bbcd-0151-effce8347419",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "21959c50-9406-299c-f8ad-5300052eb31b",
+        "400d2c38-b129-ef8d-8983-2579040fd855",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "400d2c38-b129-ef8d-8983-2579040fd855"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "9740784f-7047-0b4b-f936-8b6f8f9a1a15"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "360fd82d-9faa-7481-23f3-b335f00e8309"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "97bffc08-41f7-8520-0b36-21ba29b320a3"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d",
+        "21959c50-9406-299c-f8ad-5300052eb31b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1",
+        "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "24179638-b219-2bc3-5dc3-94be3a569da0",
+        "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "34ac8c9e-57d2-55f6-a909-9dc35d09dac8",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "24179638-b219-2bc3-5dc3-94be3a569da0"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "f0617d6a-c35a-5177-fcf2-95f67d79196d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "4dca75c4-6cc4-4216-5142-73fd677f90c5"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "3eb631f9-fd37-705c-bd86-dec6aaf44702",
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c"
+      ],
+      "chance": 2
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "e5853d38-a541-353e-bfd9-75c64e67af09"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "205398ce-3367-6d75-998e-182e95b137fe",
+        "6c5210db-3c17-6731-5abe-1853bced8b3b",
+        "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "ff796546-f5f5-2c99-1118-0bb41e70d48c",
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "e7bcc352-1ffe-04d5-7a77-0db16f30059c"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "f4b8464c-6664-bbcd-0151-effce8347419"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b055e527-98c9-cb6d-8ee6-08d851948cef",
+        "240c8671-3490-620f-34e4-858956d31805"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "00bfd028-2e17-a777-19bf-e17fdf216c53",
+        "240c8671-3490-620f-34e4-858956d31805",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+        "6e9fb3fa-5204-03d4-d976-64d9ee38564f"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+        "7739e1ec-1ba2-82be-af9e-26e445fd0b5b",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    },
+    {
+      "items": [
+        "727fd3d2-5792-fc72-ae23-11f216ca90a7",
+        "5e396bc3-febe-701e-c9da-80fa28036237"
+      ],
+      "chance": 1
+    }
+  ],
+  "itemCounts": {
+    "205398ce-3367-6d75-998e-182e95b137fe": {
+      "min": 1,
+      "max": 2
+    },
+    "3eb631f9-fd37-705c-bd86-dec6aaf44702": {
+      "min": 1,
+      "max": 2
+    },
+    "b168485f-dd72-4c6a-af04-46858c42d8a1": {
+      "min": 1,
+      "max": 1
+    },
+    "b055e527-98c9-cb6d-8ee6-08d851948cef": {
+      "min": 1,
+      "max": 2
+    },
+    "6c5210db-3c17-6731-5abe-1853bced8b3b": {
+      "min": 1,
+      "max": 1
+    },
+    "727fd3d2-5792-fc72-ae23-11f216ca90a7": {
+      "min": 1,
+      "max": 2
+    },
+    "ff796546-f5f5-2c99-1118-0bb41e70d48c": {
+      "min": 2,
+      "max": 12
+    },
+    "00bfd028-2e17-a777-19bf-e17fdf216c53": {
+      "min": 1,
+      "max": 1
+    },
+    "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9": {
+      "min": 1,
+      "max": 2
+    },
+    "e5853d38-a541-353e-bfd9-75c64e67af09": {
+      "min": 1,
+      "max": 1
+    },
+    "f9890ebf-f8db-55dc-38a3-ff87ed94f0f1": {
+      "min": 2,
+      "max": 4
+    },
+    "240c8671-3490-620f-34e4-858956d31805": {
+      "min": 1,
+      "max": 2
+    },
+    "f0617d6a-c35a-5177-fcf2-95f67d79196d": {
+      "min": 2,
+      "max": 7
+    },
+    "3d0969b4-e8c8-0a23-73d4-0c6128bfb84c": {
+      "min": 1,
+      "max": 2
+    },
+    "34ac8c9e-57d2-55f6-a909-9dc35d09dac8": {
+      "min": 1,
+      "max": 1
+    },
+    "18b4399f-8619-2dc6-cfc6-fffdf1f6d04d": {
+      "min": 1,
+      "max": 1
+    },
+    "4dca75c4-6cc4-4216-5142-73fd677f90c5": {
+      "min": 1,
+      "max": 2
+    },
+    "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098": {
+      "min": 1,
+      "max": 4
+    },
+    "e5a9653f-62bf-1782-cc4c-4deafd4ab098": {
+      "min": 1,
+      "max": 1
+    },
+    "7739e1ec-1ba2-82be-af9e-26e445fd0b5b": {
+      "min": 1,
+      "max": 2
+    },
+    "f4b8464c-6664-bbcd-0151-effce8347419": {
+      "min": 1,
+      "max": 1
+    },
+    "e7bcc352-1ffe-04d5-7a77-0db16f30059c": {
+      "min": 1,
+      "max": 1
+    },
+    "6e9fb3fa-5204-03d4-d976-64d9ee38564f": {
+      "min": 1,
+      "max": 1
+    },
+    "24179638-b219-2bc3-5dc3-94be3a569da0": {
+      "min": 1,
+      "max": 2
+    },
+    "21959c50-9406-299c-f8ad-5300052eb31b": {
+      "min": 1,
+      "max": 1
+    },
+    "400d2c38-b129-ef8d-8983-2579040fd855": {
+      "min": 1,
+      "max": 1
+    },
+    "5e396bc3-febe-701e-c9da-80fa28036237": {
+      "min": 1,
+      "max": 2
+    },
+    "9740784f-7047-0b4b-f936-8b6f8f9a1a15": {
+      "min": 1,
+      "max": 2
+    },
+    "ed7493f2-a4ce-5716-0fcb-7489b6ff38e6": {
+      "min": 1,
+      "max": 1
+    },
+    "97bffc08-41f7-8520-0b36-21ba29b320a3": {
+      "min": 1,
+      "max": 1
+    },
+    "20519eb8-6256-4fdd-a598-a2a20de10e1c": {
+      "min": 1,
+      "max": 1
+    },
+    "1cebb83b-a28a-c37f-8902-7e5d5bc6ab3b": {
+      "min": 1,
+      "max": 1
+    },
+    "ea2d68a2-fc49-0674-7422-2a546526476a": {
+      "min": 1,
+      "max": 1
+    },
+    "360fd82d-9faa-7481-23f3-b335f00e8309": {
+      "min": 1,
+      "max": 5
+    }
+  }
+}

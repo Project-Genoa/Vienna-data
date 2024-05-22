@@ -1,0 +1,34 @@
+{
+  "icon": "genoa:tree_birch_a_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "fb9b0570-4918-76ab-4052-792af8f611d4",
+        "09e4c882-2cfa-0c0f-9662-e02b381be6e7"
+      ],
+      "chance": 157
+    },
+    {
+      "items": [
+        "fb9b0570-4918-76ab-4052-792af8f611d4"
+      ],
+      "chance": 115
+    },
+    {
+      "items": [
+        "09e4c882-2cfa-0c0f-9662-e02b381be6e7"
+      ],
+      "chance": 64
+    }
+  ],
+  "itemCounts": {
+    "fb9b0570-4918-76ab-4052-792af8f611d4": {
+      "min": 2,
+      "max": 8
+    },
+    "09e4c882-2cfa-0c0f-9662-e02b381be6e7": {
+      "min": 1,
+      "max": 2
+    }
+  }
+}

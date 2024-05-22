@@ -1,0 +1,99 @@
+{
+  "icon": "genoa:chicken_tappable_map",
+  "dropSets": [
+    {
+      "items": [
+        "bc372a72-d2d7-0bb8-12d0-8dea6635b6e4"
+      ],
+      "chance": 183
+    },
+    {
+      "items": [
+        "bc372a72-d2d7-0bb8-12d0-8dea6635b6e4",
+        "d78d2bdc-766f-e977-f0fb-15edc49d01e9"
+      ],
+      "chance": 277
+    },
+    {
+      "items": [
+        "bc372a72-d2d7-0bb8-12d0-8dea6635b6e4",
+        "01eb6e48-c264-8670-e4fe-eb3d84b38083"
+      ],
+      "chance": 25
+    },
+    {
+      "items": [
+        "e4b00fc1-9143-00ed-e930-8c1c09c35d63"
+      ],
+      "chance": 13
+    },
+    {
+      "items": [
+        "ba6b6909-b76c-8034-fec8-059a7a18ead9"
+      ],
+      "chance": 13
+    },
+    {
+      "items": [
+        "6a105892-0863-3dcf-7482-7c7720597caa"
+      ],
+      "chance": 12
+    },
+    {
+      "items": [
+        "576df436-a542-5692-458d-a60f69cc4a04"
+      ],
+      "chance": 28
+    },
+    {
+      "items": [
+        "6b9dca6b-7515-a83a-f4d2-d5a464247963"
+      ],
+      "chance": 13
+    },
+    {
+      "items": [
+        "41cceca7-90f0-1e8f-fa69-c468ab49eec2"
+      ],
+      "chance": 44
+    }
+  ],
+  "itemCounts": {
+    "bc372a72-d2d7-0bb8-12d0-8dea6635b6e4": {
+      "min": 1,
+      "max": 1
+    },
+    "d78d2bdc-766f-e977-f0fb-15edc49d01e9": {
+      "min": 1,
+      "max": 2
+    },
+    "e4b00fc1-9143-00ed-e930-8c1c09c35d63": {
+      "min": 1,
+      "max": 1
+    },
+    "01eb6e48-c264-8670-e4fe-eb3d84b38083": {
+      "min": 1,
+      "max": 2
+    },
+    "ba6b6909-b76c-8034-fec8-059a7a18ead9": {
+      "min": 1,
+      "max": 1
+    },
+    "6a105892-0863-3dcf-7482-7c7720597caa": {
+      "min": 1,
+      "max": 1
+    },
+    "576df436-a542-5692-458d-a60f69cc4a04": {
+      "min": 1,
+      "max": 1
+    },
+    "6b9dca6b-7515-a83a-f4d2-d5a464247963": {
+      "min": 1,
+      "max": 1
+    },
+    "41cceca7-90f0-1e8f-fa69-c468ab49eec2": {
+      "min": 1,
+      "max": 1
+    }
+  }
+}
