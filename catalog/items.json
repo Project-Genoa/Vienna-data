@@ -565,7 +565,7 @@
           "value": 50,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -606,7 +606,7 @@
           "value": 75,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -647,7 +647,7 @@
           "value": 100,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -5871,7 +5871,7 @@
           "value": 100,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -5912,7 +5912,7 @@
           "value": 300,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -5953,7 +5953,7 @@
           "value": 700,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -6284,7 +6284,7 @@
           "value": 25,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -6325,7 +6325,7 @@
           "value": 50,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -6366,7 +6366,7 @@
           "value": 75,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -7847,7 +7847,7 @@
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -7917,7 +7917,7 @@
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -7987,7 +7987,7 @@
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -9682,7 +9682,7 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 10,
+      "duration": 600000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -9723,7 +9723,7 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 15,
+      "duration": 900000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -9771,7 +9771,7 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 30,
+      "duration": 1800000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -10450,7 +10450,7 @@
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -10565,7 +10565,7 @@
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -10680,7 +10680,7 @@
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -11818,7 +11818,7 @@
           "value": 10,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -11859,7 +11859,7 @@
           "value": 20,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -11900,7 +11900,7 @@
           "value": 30,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -12121,7 +12121,7 @@
           "value": 25,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -12162,7 +12162,7 @@
           "value": 50,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -12203,7 +12203,7 @@
           "value": 100,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -15120,7 +15120,7 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 10,
+      "duration": 600000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -15161,7 +15161,7 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 15,
+      "duration": 900000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -15209,7 +15209,7 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": 30,
+      "duration": 1800000,
       "triggeredOnDeath": true,
       "effects": [
         {
@@ -15988,7 +15988,7 @@
           "value": 100,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -16029,7 +16029,7 @@
           "value": 300,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -16070,7 +16070,7 @@
           "value": 700,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -22107,7 +22107,7 @@
           "value": 25,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -22148,7 +22148,7 @@
           "value": 50,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -22189,7 +22189,7 @@
           "value": 100,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
@@ -22588,7 +22588,7 @@
           "value": 35,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 10
+          "duration": 600000
         }
       ]
     },
@@ -22629,7 +22629,7 @@
           "value": 53,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 15
+          "duration": 900000
         }
       ]
     },
@@ -22670,7 +22670,7 @@
           "value": 70,
           "applicableItemIds": [],
           "activation": "TIMED",
-          "duration": 30
+          "duration": 1800000
         }
       ]
     },
