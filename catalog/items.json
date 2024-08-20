@@ -557,15 +557,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "ADVENTURE_XP",
           "value": 50,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -598,15 +597,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "ADVENTURE_XP",
           "value": 75,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -639,15 +637,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "ADVENTURE_XP",
           "value": 100,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -745,15 +742,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 2,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -831,15 +827,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -1453,15 +1448,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -1503,15 +1497,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 2,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -1587,15 +1580,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 6,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -2192,15 +2184,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 6,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -2607,15 +2598,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 6,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -2861,15 +2851,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": true,
       "effects": [
         {
           "type": "HEALING",
           "value": 2,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -3449,15 +3438,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -3623,15 +3611,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -3741,15 +3728,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5516,15 +5502,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 6,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5566,15 +5551,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5616,15 +5600,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5666,15 +5649,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 7,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5716,15 +5698,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5766,15 +5747,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5816,15 +5796,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -5863,15 +5842,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "CRAFTING",
           "value": 100,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -5904,15 +5882,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "CRAFTING",
           "value": 300,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -5945,15 +5922,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "CRAFTING",
           "value": 700,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -6276,15 +6252,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "DEFENSE",
           "value": 25,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -6317,15 +6292,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "DEFENSE",
           "value": 50,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -6358,15 +6332,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "DEFENSE",
           "value": 75,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -7810,7 +7783,7 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -7846,8 +7819,7 @@
             "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -7880,7 +7852,7 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -7916,8 +7888,7 @@
             "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -7950,7 +7921,7 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -7986,8 +7957,7 @@
             "c14fc209-f280-bccc-bb4a-6c2a3fc71abc",
             "4790d989-80ae-e654-e0b3-05081cf6e026"
           ],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -8471,15 +8441,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -8975,15 +8944,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 20,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -9055,15 +9023,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 10,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -9689,8 +9656,7 @@
           "type": "RETENTION_HOTBAR",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -9730,15 +9696,13 @@
           "type": "RETENTION_HOTBAR",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_XP",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -9778,22 +9742,19 @@
           "type": "RETENTION_HOTBAR",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_XP",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_BACKPACK",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -10368,7 +10329,7 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -10449,8 +10410,7 @@
             "e4b00fc1-9143-00ed-e930-8c1c09c35d63",
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -10483,7 +10443,7 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -10564,8 +10524,7 @@
             "e4b00fc1-9143-00ed-e930-8c1c09c35d63",
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -10598,7 +10557,7 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
@@ -10679,8 +10638,7 @@
             "e4b00fc1-9143-00ed-e930-8c1c09c35d63",
             "b40a3bf6-f8f0-3024-24fd-9d4faf382fa3"
           ],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -11810,15 +11768,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALTH",
           "value": 10,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -11851,15 +11808,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALTH",
           "value": 20,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -11892,15 +11848,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALTH",
           "value": 30,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -11936,15 +11891,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 2,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -12113,15 +12067,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "MINING_SPEED",
           "value": 25,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -12154,15 +12107,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "MINING_SPEED",
           "value": 50,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -12195,15 +12147,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "MINING_SPEED",
           "value": 100,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -12425,15 +12376,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 8,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -12475,15 +12425,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 5,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -12525,15 +12474,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -13295,15 +13243,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -13345,15 +13292,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -13513,15 +13459,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 4,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -13863,15 +13808,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -13981,15 +13925,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 8,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -15127,8 +15070,7 @@
           "type": "RETENTION_BACKPACK",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -15168,15 +15110,13 @@
           "type": "RETENTION_BACKPACK",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_XP",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -15216,22 +15156,19 @@
           "type": "RETENTION_BACKPACK",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_XP",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         },
         {
           "type": "RETENTION_HOTBAR",
           "value": 0,
           "applicableItemIds": [],
-          "activation": "TRIGGERED",
-          "duration": 0
+          "activation": "TRIGGERED"
         }
       ]
     },
@@ -15301,15 +15238,14 @@
       "level": null,
       "type": "INVENTORY_ITEM",
       "canBeRemoved": false,
-      "duration": null,
+      "duration": 0,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "HEALING",
           "value": 1,
           "applicableItemIds": [],
-          "activation": "INSTANT",
-          "duration": 0
+          "activation": "INSTANT"
         }
       ]
     },
@@ -15980,15 +15916,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "SMELTING",
           "value": 100,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -16021,15 +15956,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "SMELTING",
           "value": 300,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -16062,15 +15996,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "SMELTING",
           "value": 700,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22099,15 +22032,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "STRENGTH",
           "value": 25,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22140,15 +22072,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "STRENGTH",
           "value": 50,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22181,15 +22112,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "STRENGTH",
           "value": 100,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22580,15 +22510,14 @@
       "level": 1,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 600000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "TAPPABLE_RADIUS",
           "value": 35,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 600000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22621,15 +22550,14 @@
       "level": 2,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 900000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "TAPPABLE_RADIUS",
           "value": 53,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 900000
+          "activation": "TIMED"
         }
       ]
     },
@@ -22662,15 +22590,14 @@
       "level": 3,
       "type": "POTION",
       "canBeRemoved": true,
-      "duration": null,
+      "duration": 1800000,
       "triggeredOnDeath": false,
       "effects": [
         {
           "type": "TAPPABLE_RADIUS",
           "value": 70,
           "applicableItemIds": [],
-          "activation": "TIMED",
-          "duration": 1800000
+          "activation": "TIMED"
         }
       ]
     },
